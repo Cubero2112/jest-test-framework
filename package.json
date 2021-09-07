@@ -1,0 +1,14 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Unit Testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Josue Cubero",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
